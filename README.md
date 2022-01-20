@@ -1,0 +1,2 @@
+This repository contains jupyter notebook files for converting a random forest/ gradient boosted trees to logical formula. The files are named accordingly to the classification and 
+regression problems.
